@@ -1,1 +1,2 @@
-# FirstRepo
+Paragon z warzywniaka
+
